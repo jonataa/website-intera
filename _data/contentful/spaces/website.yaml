@@ -1,0 +1,52 @@
+---
+hero:
+- sys:
+    id: 4wX9vQbUHIjUdlWge7QYio
+    created_at: !ruby/object:DateTime 2019-05-31 00:46:46.083000000 Z
+    updated_at: !ruby/object:DateTime 2019-05-31 01:20:32.243000000 Z
+    content_type_id: hero
+    revision: 2
+  title: Welcome to Intera
+  description: Esse é o nosso primeiro projeto em Jekyll
+  background:
+    sys:
+      id: 2f59pI7UZ5lFVHWvzw0drv
+      created_at: !ruby/object:DateTime 2019-05-31 00:50:04.587000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-31 00:51:04.439000000 Z
+    title: background-1
+    description: 
+    url: "//images.ctfassets.net/a5fn3y0vfmws/2f59pI7UZ5lFVHWvzw0drv/408bd8eefcbc57964cf67ded3852edba/hero_2.jpg"
+  buttons:
+  - sys:
+      id: 7dlxm6IM4hv4ODuemFsJad
+      created_at: !ruby/object:DateTime 2019-05-31 01:18:58.493000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-31 01:22:43.584000000 Z
+      content_type_id: buttons
+      revision: 2
+    label: Botão 01
+    url: http://www.g1.com.br
+  - sys:
+      id: 55pZC1Hxt59nb8G9ZNVPBH
+      created_at: !ruby/object:DateTime 2019-05-31 01:19:33.368000000 Z
+      updated_at: !ruby/object:DateTime 2019-05-31 01:20:02.320000000 Z
+      content_type_id: buttons
+      revision: 2
+    label: Botão 02
+    url: http://www.google.com.br
+buttons:
+- sys:
+    id: 7dlxm6IM4hv4ODuemFsJad
+    created_at: !ruby/object:DateTime 2019-05-31 01:18:58.493000000 Z
+    updated_at: !ruby/object:DateTime 2019-05-31 01:22:43.584000000 Z
+    content_type_id: buttons
+    revision: 2
+  label: Botão 01
+  url: http://www.g1.com.br
+- sys:
+    id: 55pZC1Hxt59nb8G9ZNVPBH
+    created_at: !ruby/object:DateTime 2019-05-31 01:19:33.368000000 Z
+    updated_at: !ruby/object:DateTime 2019-05-31 01:20:02.320000000 Z
+    content_type_id: buttons
+    revision: 2
+  label: Botão 02
+  url: http://www.google.com.br

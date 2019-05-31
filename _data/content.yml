@@ -1,0 +1,30 @@
+hero:
+  title: Welcome to Intera
+  description: Esse é o nosso primeiro projeto em Jekyll
+  background: images/hero_2.jpg
+  buttons:
+    - label: Botão 01
+      href: "//www.g1.com.br"
+    - label: Botão 02
+      href: "//www.google.com.br"
+products:
+  subtitle: Popular Products
+  title: Our Products
+  description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae nostrum natus excepturi fuga ullam accusantium vel ut eveniet aut consequatur laboriosam ipsam.
+leadership:
+  subtitle: Team
+  title: lead
+  members:
+    - name: John Rooster
+      photo: images/person_2.jpg
+      position: Co-Founder, President
+      bio: Nisi at consequatur unde molestiae quidem provident voluptatum deleniti quo iste error eos est praesentium distinctio cupiditate tempore suscipit inventore deserunt tenetur.
+    - name: Tom Sharp
+      photo: images/person_3.jpg
+      position: Co-Founder, COO
+      bio: Nisi at consequatur unde molestiae quidem provident voluptatum deleniti quo iste error eos est praesentium distinctio cupiditate tempore suscipit inventore deserunt tenetur.
+    - name: Winston Hodson
+      photo: images/person_4.jpg
+      position: Marketing
+      bio: Nisi at consequatur unde molestiae quidem provident voluptatum deleniti quo iste error eos est praesentium distinctio cupiditate tempore suscipit inventore deserunt tenetur.
+    
